@@ -1,0 +1,836 @@
+[08-May-2016 09:20:14 UTC] PHP Warning:  file_get_contents(img/item0.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 8
+[08-May-2016 09:20:14 UTC] PHP Stack trace:
+[08-May-2016 09:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:20:14 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/img/items/scripts.php:8
+[08-May-2016 09:20:14 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/img/items/scripts.php on line 9
+[08-May-2016 09:20:14 UTC] PHP Stack trace:
+[08-May-2016 09:20:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:20:14 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/img/items/scripts.php:9
+[08-May-2016 09:20:26 UTC] PHP Warning:  file_get_contents(img/item0.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 8
+[08-May-2016 09:20:26 UTC] PHP Stack trace:
+[08-May-2016 09:20:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:20:26 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/img/items/scripts.php:8
+[08-May-2016 09:20:26 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/img/items/scripts.php on line 9
+[08-May-2016 09:20:26 UTC] PHP Stack trace:
+[08-May-2016 09:20:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:20:26 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/img/items/scripts.php:9
+[08-May-2016 09:21:56 UTC] PHP Warning:  file_get_contents(/img/item0.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 8
+[08-May-2016 09:21:56 UTC] PHP Stack trace:
+[08-May-2016 09:21:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:21:56 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/img/items/scripts.php:8
+[08-May-2016 09:21:56 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/ubuntu/workspace/img/items/scripts.php on line 9
+[08-May-2016 09:21:56 UTC] PHP Stack trace:
+[08-May-2016 09:21:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:21:56 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/img/items/scripts.php:9
+[08-May-2016 09:23:45 UTC] PHP Warning:  getimagesize(‰PNG
+
+): failed to open stream: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 9
+[08-May-2016 09:23:45 UTC] PHP Stack trace:
+[08-May-2016 09:23:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:23:45 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/img/items/scripts.php:9
+[08-May-2016 09:24:29 UTC] PHP Warning:  getimagesize(‰PNG
+
+): failed to open stream: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 9
+[08-May-2016 09:24:29 UTC] PHP Stack trace:
+[08-May-2016 09:24:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:24:29 UTC] PHP   2. getimagesize() /home/ubuntu/workspace/img/items/scripts.php:9
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/000.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/001.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/002.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/003.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/004.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/005.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/006.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/007.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/008.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/009.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/010.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/011.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/012.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/013.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/014.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/015.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/016.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/017.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/018.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/019.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/020.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/021.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/022.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/023.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/024.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/025.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/026.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/027.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/028.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/029.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/030.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/031.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/032.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/033.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/034.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/035.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/036.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/037.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/038.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/039.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/040.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/041.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/042.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/043.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/044.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/045.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/046.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/047.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/048.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/049.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/050.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/051.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/052.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/053.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/054.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/055.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/056.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/057.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/058.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/059.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/060.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/061.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/062.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/063.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/064.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/065.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/066.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/067.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/068.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/069.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/070.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/071.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/072.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/073.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/074.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/075.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/076.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/077.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/078.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/079.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/080.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/081.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/082.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/083.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/084.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/085.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/086.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/087.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/088.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/089.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/090.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/091.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/092.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/093.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/094.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/095.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/096.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/097.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/098.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagecopy() expects parameter 2 to be resource, string given in /home/ubuntu/workspace/img/items/scripts.php on line 19
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagecopy() /home/ubuntu/workspace/img/items/scripts.php:19
+[08-May-2016 09:26:05 UTC] PHP Warning:  imagepng(): Unable to open 'img/items/099.png' for writing: No such file or directory in /home/ubuntu/workspace/img/items/scripts.php on line 20
+[08-May-2016 09:26:05 UTC] PHP Stack trace:
+[08-May-2016 09:26:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/img/items/scripts.php:0
+[08-May-2016 09:26:05 UTC] PHP   2. imagepng() /home/ubuntu/workspace/img/items/scripts.php:20
